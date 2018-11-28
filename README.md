@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hi humans!
+
+This is what I'm made of!
